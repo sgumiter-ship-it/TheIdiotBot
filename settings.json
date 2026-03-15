@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Purple",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Purple",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,16 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player and not a bot!",
-        "Subscribe Debugger!",
-        "I like to play Minecraft... a little!"
+        "OMG DIAMONDS YES FINALLY BRO",
+        "Subscribe to Debugger!",
+        "Where are you guys?",
+        "Herobrine has joined the world...",
+        "i see you...",
+        "BRO I LOST MY STUFF BROOOOO",
+        "whats the meaning of life?",
+        "im behind you",
+        "jk",
+        "im so bored wanna play smth else guys?"
       ]
     },
     "chat-log": true,
