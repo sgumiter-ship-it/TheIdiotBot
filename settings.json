@@ -3,14 +3,12 @@
   "bot-account": {
     "username": "Purple",
     "password": "",
-    "type": "online",
-    "version": "1.21", 
-    "auth": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "mantaray.aternos.host",
+    "ip": "Idiots_Delight.aternos.me",
     "port": 33837,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
