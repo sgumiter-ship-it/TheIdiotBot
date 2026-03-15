@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Purple",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Idiots_Delight.aternos.me",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 331,
+    "y": 85,
+    "z": -172
   },
   "utils": {
     "auto-auth": {
