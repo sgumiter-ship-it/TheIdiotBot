@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cutlassfish.aternos.host:33837",
+    "ip": "mrigal.aternos.host:33837",
     "port": 33837,
     "version": "",
     "try-creative": false
