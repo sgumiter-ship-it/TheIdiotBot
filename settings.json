@@ -3,7 +3,9 @@
   "bot-account": {
     "username": "Purple",
     "password": "",
-    "type": "online"
+    "type": "online",
+    "version": "1.21", 
+    "auth": "offline"
   },
   "server": {
     "ip": "mantaray.aternos.host",
