@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "NotABot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "mrigal.aternos.host:33837",
+    "port": 33837,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "ERROR ERROR!!!"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,12 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "subscribe to debugger",
+        "where u guys at",
+        "BRUH I DIED",
+        "im so bored",
+        "i see you",
+        "whats the meaning of life?"
       ]
     },
     "chat-log": true,
