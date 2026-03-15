@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Idiots_Delight.aternos.me:33837",
+    "ip": "Idiots_Delight.aternos.me",
     "port": 33837,
     "version": "",
     "try-creative": false
